@@ -1,5 +1,5 @@
 # whatsapp-ai-bot
-My AI customer support bot
+# My AI customer support bot
 from flask import Flask, request
 from twilio.twiml.messaging_response import MessagingResponse
 from twilio.rest import Client
